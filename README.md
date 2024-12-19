@@ -1,1 +1,2 @@
 I have developed a face detection project capable of identifying a specific face from an uploaded image across multiple video clips and along with this it detects the person's age and emotion. The program is designed to produce results efficiently, minimizing processing time. Additionally, it allows users to add multiple video clips, such as clip2, clip3, and so on, to detect the same face across all the videos.
+After installing python install necessary packages to run this code.
